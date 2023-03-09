@@ -4,7 +4,7 @@ import Meme from "./Meme"
 
 
 // import Meme image
-import memeLOGO from "./bg1.jpg"
+import memeLOGO from "./bg.jpg"
 
 
  export function App() {
