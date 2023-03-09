@@ -4,9 +4,24 @@
   box-sizing: border-box;
   font-family: sans-serif;
   user-select: none;
+  color: white;
+}
+.app-container{
+  width: 400px;
+  height: 400px;
+  background-color:black ;
+  margin: 30px auto;
 }
 
-.memeLOGO{
-  height:30px ;
 
+.memeLOGO{
+  height:90px ;
+
+}
+.navbar{
+  display: flex;
+  align-items:centre ;
+  justify-content:space-between;
+  background-color:#2e2e2e;
+  padding:6px  33px;
 }
